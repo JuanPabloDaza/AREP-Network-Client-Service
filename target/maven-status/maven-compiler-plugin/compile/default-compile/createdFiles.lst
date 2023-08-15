@@ -1,0 +1,5 @@
+edu\escuelaing\arep\app\EchoClient.class
+edu\escuelaing\arep\app\HttpServer.class
+edu\escuelaing\arep\app\BrowserReader.class
+edu\escuelaing\arep\app\EchoServer.class
+edu\escuelaing\arep\app\URLReader.class
